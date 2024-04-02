@@ -1,2 +1,0 @@
-# PokeBaconQueso
-Bot de Discord
